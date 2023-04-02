@@ -13,3 +13,5 @@ C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CopyComplete
