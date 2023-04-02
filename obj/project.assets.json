@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\surya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\TP\\clone repo\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
+      "projectUniqueName": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
       "projectName": "TPMODUL7_kelompokEliteGlobal_6",
-      "projectPath": "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\TP\\clone repo\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\TELKOM\\Pembelajaran\\Semester 4\\KPL\\TP\\clone repo\\TheEliteGlobal\\obj\\",
+      "projectPath": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
+      "packagesPath": "C:\\Users\\surya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\surya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -114,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
