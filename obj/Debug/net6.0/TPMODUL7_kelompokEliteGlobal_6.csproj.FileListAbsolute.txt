@@ -30,3 +30,20 @@ D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net
 D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
 D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
 D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.exe
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.deps.json
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.runtimeconfig.json
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.AssemblyReference.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfoInputs.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfo.cs
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CoreCompileInputs.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CopyComplete
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\refint\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
+D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll

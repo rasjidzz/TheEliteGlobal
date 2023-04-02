@@ -8,12 +8,12 @@ using Newtonsoft.Json;
 
 namespace TPMODUL7_kelompokEliteGlobal_6
 {
-    internal class DataMahasiswa_1302210070_Ashar_Syahbudi_S_
+    internal class DataMahasiswa_1302210036_Zhafran_Hafizh
     {
         public void ReadJSON()
         {
 
-            string jsonString = File.ReadAllText(@"D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\tp7_1_1302210070.json");
+            string jsonString = File.ReadAllText(@"D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\tp7_1_1302210036.json");
 
             dynamic jsonObject = JsonConvert.DeserializeObject(jsonString);
 
