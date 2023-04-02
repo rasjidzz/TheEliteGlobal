@@ -30,20 +30,3 @@ D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net
 D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
 D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
 D:\TELKOM\Pembelajaran\Semester 4\KPL\TP\clone repo\TheEliteGlobal\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.exe
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.deps.json
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.runtimeconfig.json
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.AssemblyReference.cache
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfoInputs.cache
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfo.cs
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CoreCompileInputs.cache
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CopyComplete
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\refint\TPMODUL7_kelompokEliteGlobal_6.dll
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
-C:\Users\surya\Documents\KPL Praktikum\TP_MOD7_1302210084\TheEliteGlobal\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
