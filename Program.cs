@@ -1,1 +1,4 @@
-﻿Console.WriteLine("Testing ini commit awal aja ges");
+﻿using TPMODUL7_kelompokEliteGlobal_6;
+
+DataMahasiswa_1302210106_SteventRangga a = new DataMahasiswa_1302210106_SteventRangga();
+a.ReadJSON();

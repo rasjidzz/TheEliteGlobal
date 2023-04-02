@@ -13,3 +13,20 @@ C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.exe
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.deps.json
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.runtimeconfig.json
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.AssemblyReference.cache
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfoInputs.cache
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfo.cs
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CoreCompileInputs.cache
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CopyComplete
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\refint\TPMODUL7_kelompokEliteGlobal_6.dll
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
+D:\Coding\C#\TP_MOD7\TheEliteGlobal\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
