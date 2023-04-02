@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4 SE-45-02",
+			"name": "Konstruksi Perangkat Lunak"
+		},
+		{
+			"code": "CIIB4 SE-45-02",
+			"name": "Pemrograman Berbasis Objek"
+		},
+		{
+			"code": "CRJ2G3 SE-45-02",
+			"name": "Dasar Jaringan Komputer"
+		},
+		{
+			"code": "CRJ2H3 SE-45-02",
+			"name": "Pengalaman Pengguna"
+		},
+		{
+			"code": "CRJ2A3 SE-45-02",
+			"name": "Penjaminan Mutu Perangkat Lunak"
+		},
+		{
+			"code": "CRI2E4 SE-45-02",
+			"name": "Basis Data"
+		},
+		{
+			"code": "CRI2F2 SE-45-02",
+			"name": "Proyek Tingkat 2"
+		},
+	]
+}
