@@ -13,11 +13,11 @@ namespace TPMODUL7_kelompokEliteGlobal_6
         public void ReadJSON()
         {
 
-            string jsonString = File.ReadAllText(@"D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\tp7_1_1302210036.json");
+            string jsonStr = File.ReadAllText(@"D:\Telkom Univ\Tingkat 2 (Sem 3-4)\Semester 4\Konstruksi PL\Praktikum\TP\MOD7\TheEliteGlobal\tp7_1_1302210036.json");
 
-            dynamic jsonObject = JsonConvert.DeserializeObject(jsonString);
+            dynamic jsonObj = JsonConvert.DeserializeObject(jsonStr);
 
-            Console.WriteLine($"Nama {jsonObject.nama.depan} {jsonObject.nama.belakang} dengan nim {jsonObject.nim} dari fakultas {jsonObject.fakultas}");
+            Console.WriteLine($"Nama {jsonObj.nama.depan} {jsonObj.nama.belakang} dengan nim {jsonObj.nim} dari fakultas {jsonObj.fakultas}");
         }
     }
 }
