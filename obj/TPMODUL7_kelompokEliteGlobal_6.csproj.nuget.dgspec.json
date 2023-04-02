@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj": {}
+    "C:\\PERKULIAHAN\\SEMESTER 4\\KPL\\TP_MOD7\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj": {
+    "C:\\PERKULIAHAN\\SEMESTER 4\\KPL\\TP_MOD7\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
+        "projectUniqueName": "C:\\PERKULIAHAN\\SEMESTER 4\\KPL\\TP_MOD7\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
         "projectName": "TPMODUL7_kelompokEliteGlobal_6",
-        "projectPath": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
-        "packagesPath": "C:\\Users\\surya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\obj\\",
+        "projectPath": "C:\\PERKULIAHAN\\SEMESTER 4\\KPL\\TP_MOD7\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\PERKULIAHAN\\SEMESTER 4\\KPL\\TP_MOD7\\TheEliteGlobal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\surya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
