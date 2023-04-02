@@ -1,0 +1,15 @@
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.exe
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.deps.json
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.runtimeconfig.json
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\bin\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.AssemblyReference.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfoInputs.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.AssemblyInfo.cs
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.csproj.CoreCompileInputs.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.dll
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\refint\TPMODUL7_kelompokEliteGlobal_6.dll
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.pdb
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\TPMODUL7_kelompokEliteGlobal_6.genruntimeconfig.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 7\TPMODUL7_kelompokEliteGlobal_6\obj\Debug\net6.0\ref\TPMODUL7_kelompokEliteGlobal_6.dll
