@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\Praktikum KPL\\MODUL 7\\TPMODUL7_kelompokEliteGlobal_6\\TPMODUL7_kelompokEliteGlobal_6.csproj": {}
+    "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\Praktikum KPL\\MODUL 7\\TPMODUL7_kelompokEliteGlobal_6\\TPMODUL7_kelompokEliteGlobal_6.csproj": {
+    "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\Praktikum KPL\\MODUL 7\\TPMODUL7_kelompokEliteGlobal_6\\TPMODUL7_kelompokEliteGlobal_6.csproj",
+        "projectUniqueName": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
         "projectName": "TPMODUL7_kelompokEliteGlobal_6",
-        "projectPath": "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\Praktikum KPL\\MODUL 7\\TPMODUL7_kelompokEliteGlobal_6\\TPMODUL7_kelompokEliteGlobal_6.csproj",
-        "packagesPath": "C:\\Users\\mrisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrisj\\Documents\\TELKOM\\Telkom University\\Semester 4\\Praktikum KPL\\MODUL 7\\TPMODUL7_kelompokEliteGlobal_6\\obj\\",
+        "projectPath": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\TPMODUL7_kelompokEliteGlobal_6.csproj",
+        "packagesPath": "C:\\Users\\surya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\surya\\Documents\\KPL Praktikum\\TP_MOD7_1302210084\\TheEliteGlobal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mrisj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\surya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
