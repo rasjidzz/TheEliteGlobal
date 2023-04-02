@@ -5,3 +5,4 @@ a.ReadJSON();
 
 KuliahMahasiswa_1302210070_AsharSyahbudiS b = new KuliahMahasiswa_1302210070_AsharSyahbudiS();
 b.ReadJSON();
+
